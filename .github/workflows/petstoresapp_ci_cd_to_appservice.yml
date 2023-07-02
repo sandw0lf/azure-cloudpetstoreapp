@@ -1,3 +1,4 @@
+#adding registry and user name
 name: Pet Store App CI/CD to Azure App Service
   
 env:
